@@ -1,0 +1,303 @@
+body {
+    min-width: 1440px;
+    min-height: 1964px;
+    background: #FAFAFA;
+}
+
+/*header*/
+
+header {
+    height: 32px;
+    width: 1111px;
+    border-radius: 0px;
+    margin: 64px 164px 54px 165px;
+    display: flex;
+}
+
+
+header .img {
+    margin: 0px;
+}
+
+#link1 {
+    text-decoration: none;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    color: #5FB4A2;
+    margin: 0px 42px 0px 770px;
+}
+
+#link2 {
+    margin: 0px 43px 0px 0px;
+}
+
+#link3 {
+    margin: 0px;
+}
+
+#link2, #link3 {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #33323D;
+    text-decoration: none;
+}
+
+/*section1*/
+
+#section1 {
+    Width:1110px;
+    Height:600px;
+    background-image: url(assets/home/image-homepage-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: 1110px 600px;
+    margin: 0px 165px 149px 165px;
+    display: flex;
+}
+
+.pai1 {
+    height: 357px;
+    width: 445px;
+    border-radius: 0px;
+    background-color: #FAFAFA;
+    margin: 243px 665px 0px 0px;
+}
+
+.filho1 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    letter-spacing: -0.446429px;
+    color: #33323D;
+    margin: 56px 27px 53px 27px;
+}
+
+.sobre {
+    height: 48px;
+    width: 200px;
+    border-radius: 0px;
+    background: #203A4C;
+    display:flex;
+
+}
+
+
+#arrow1 {
+    height: 48px;
+    width: 48px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    margin: 18px 16px;
+    Width:16px;
+    Height:12px;
+
+
+}
+
+.sobremim1 {
+    Width:152px;
+    Height:14px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-top: 5px;
+}
+
+/*section2*/
+
+#section2 {
+    height: 601px;
+    width: 1110px;
+    border-radius: 0px;
+    margin: 0px 165px 150px 165px;
+    display: flex;
+}
+
+#img {
+    Width:540px;
+    Height:600px;
+    margin: 0px;
+}
+
+.pai3 {
+    height: 601px;
+    width: 430px;
+    border-radius: 0px;
+    margin: 0px 0px 0px 140px;
+}
+
+.filho2 {
+    height: 502px;
+    width: 430px;
+    border-radius: 0px;
+}
+
+#sobremim2 {
+    Width:430px;
+    Height:42px;
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    margin: 0px 0px 28px 0px;
+}
+
+#texto {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    margin-bottom: 41px;
+}
+
+#portfolio {
+    font-family: 'Public Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #33323D;
+text-decoration: none;
+border: 1px solid #33323D;
+padding: 17px 28px;
+margin-left: 100px;
+}
+
+/*footer */
+
+footer {
+    height: 314px;
+    width: 1440px;
+    border-radius: 0px;
+}
+
+#contato6 {
+    height: 84px;
+    width: 1110px;
+    border-radius: 0px;
+    display: flex;
+    margin: 0px 0px 150px 165px;
+}
+
+#contato6 p {
+    Width:367px;
+    Height:84px;
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;
+    color: #33323D;
+    margin: 0px;
+}
+
+#contato6 a {
+    font-family: 'Public Sans';
+    border: 1px solid #33323D;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #33323D;
+    height: 48px;
+    width: 168px;
+    border-radius: 0px;
+    padding: 17px 50px;
+    text-decoration: none;
+    margin: 18px 0px 18px 575px;
+}
+
+.filho3 {
+    Width:1440px;
+    Height:80px;
+    background: #33323D;
+    display: flex;
+}
+
+#logo2 {
+    height: 32px;
+    width: 61px;
+    border-radius: 0px;
+    margin: 24px 48px 0px 165px;
+}
+
+.redirecionamento {
+    height: 14px;
+    width: 309px;
+    border-radius: 0px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 33px 588px 0px 0px;
+}
+
+#home3 {
+    margin: 0px 42px 0px 0px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#porfolio3 {
+    margin: 0px 43px 0px 0px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#contato3 {
+    text-decoration: none;
+    margin: 0px;
+    color: #FFFFFF;
+}
+
+.icones {
+    Width:104px;
+    Height:24px;
+    left: 274px;
+    top: 1917px;
+    border-radius: 0px;
+    display: flex;
+    margin-top: 28px;
+}
+
+#github {
+    margin-right: 15px;
+}
+
+#twitter {
+    margin-right: 15px;
+}
